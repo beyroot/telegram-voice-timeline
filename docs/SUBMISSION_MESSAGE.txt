@@ -1,0 +1,15 @@
+Hello Telegram Designers team,
+
+I'd like to submit Voice Timeline, a working feature concept for finding relevant moments in long voice messages.
+
+It includes a seekable audio waveform, timestamped transcript, tap-to-seek navigation, in-message text search, and playback-speed controls.
+
+The demo shows the browser prototype running on an iPhone, including real searches. The public repository contains the web implementation, SwiftUI source, unit tests, architecture notes and integration plan.
+
+Source: https://github.com/beyroot/telegram-voice-timeline
+
+Demo: [attach the final screen recording]
+
+The proof-of-concept uses manually segmented timestamps and an editorial overview. Automatic transcription, AI summaries and Telegram client integration are proposed extensions, not implemented features.
+
+Thank you for reviewing Voice Timeline!

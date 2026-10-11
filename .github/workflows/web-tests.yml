@@ -1,0 +1,20 @@
+name: Web prototype tests
+on:
+  push:
+    branches: [main]
+  pull_request:
+jobs:
+  unit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: JavaScript syntax validation
+        run: |
+          node --check web/timeline-core.js
+          node --check web/app.js
+          node --check web/waveform-data.js
+      - name: Unit tests
+        run: node --test tests/timeline-core.test.cjs
