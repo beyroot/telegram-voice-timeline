@@ -1,0 +1,13 @@
+.DS_Store
+Thumbs.db
+__pycache__/
+node_modules/
+*.pyc
+*.xcodeproj/
+*.xcworkspace/
+DerivedData/
+*.ipa
+*.app
+.env
+.env.*
+!.env.example

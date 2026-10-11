@@ -1,0 +1,60 @@
+{
+  "duration": 102.890667,
+  "alignment": "Approximate manually edited transcript; not ASR or forced alignment",
+  "segments": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 5.7,
+      "text": "Hey Telegram, we have a situation here."
+    },
+    {
+      "id": 1,
+      "start": 5.7,
+      "end": 18,
+      "text": "When we send a big and long story in a voice message,"
+    },
+    {
+      "id": 2,
+      "start": 18,
+      "end": 32.4,
+      "text": "we want to play it and know every single timeline in it."
+    },
+    {
+      "id": 3,
+      "start": 32.4,
+      "end": 43.7,
+      "text": "We need access to a summary or something like that"
+    },
+    {
+      "id": 4,
+      "start": 43.7,
+      "end": 56.7,
+      "text": "to improve it and get the results in a short time."
+    },
+    {
+      "id": 5,
+      "start": 56.7,
+      "end": 69,
+      "text": "That helps us have a better experience responding to long voice messages."
+    },
+    {
+      "id": 6,
+      "start": 69,
+      "end": 80.2,
+      "text": "When we send long voice messages, users can use this feature"
+    },
+    {
+      "id": 7,
+      "start": 80.2,
+      "end": 92.7,
+      "text": "to access summaries and timelines and make a better response"
+    },
+    {
+      "id": 8,
+      "start": 92.7,
+      "end": 102.890667,
+      "text": "to long voice messages in less time."
+    }
+  ]
+}
